@@ -14,3 +14,6 @@ A Book Recommendation System built using Collaborative Filtering and Cosine Simi
 - Uses user ratings data
 - Collaborative Filtering
 - Cosine Similarity
+
+## Author
+Sachin Kumar Yadav
